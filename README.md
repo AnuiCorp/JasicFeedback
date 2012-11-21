@@ -28,6 +28,6 @@ If we've got your attention and you'd like to participate in this beta, please *
 
 Thank you!
 
->Mohsen Agsen (**shark**), 
->Craig Symonds (**dolphin**), and 
->Cameron Skinner (**cuda**)!
+>Mohsen Agsen ( **shark** ), 
+>Craig Symonds ( **dolphin** ), and 
+>Cameron Skinner ( **cuda** )!
