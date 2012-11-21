@@ -1,4 +1,4 @@
-Welcome to the Jasic Beta
+## Welcome to the Jasic Beta ##
 
 We would like to invite you to try Jasic, a JavaScript development tool designed exclusively for the iPad.  Jasic is a labor of love by three programmers with a lot of passion for software development.
 
@@ -22,8 +22,12 @@ We would like to invite you to join us as we begin the next phase of getting Jas
 
 We can't wait to hear from you and see what you will build with Jasic
 
+### Next Steps ###
+
+If we've got your attention and you'd like to participate in this beta, please **send mail** to [jasic@anui.com](mailto:jasic@anui.com). We'll follow up with an email that details how to get the latest build on your device.
+
 Thank you!
 
-Mohsen Agsen (shark), 
-Craig Symonds (dolphin), and 
-Cameron Skinner (cuda)!
+>Mohsen Agsen (**shark**), 
+>Craig Symonds (**dolphin**), and 
+>Cameron Skinner (**cuda**)!
