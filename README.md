@@ -24,7 +24,9 @@ We can't wait to hear from you and see what you will build with Jasic
 
 ### Next Steps ###
 
-If we've got your attention and you'd like to participate in this beta, please **send mail** to [jasic@anui.com](mailto:jasic@anui.com). We'll follow up with an email that details how to get the latest build on your device.
+If we've got your attention and you'd like to participate in this beta, please **send mail** to [jasic@anui.com](mailto:jasic@anui.com), or even better, hit [this link](https://testflightapp.com/join/2408e0f49cad694f325ecb671b72da13-MTEzOTYw/) where you can sign up for the beta. 
+
+We'll follow up with an email that details how to get the latest build on your device.
 
 Thank you!
 
