@@ -1,3 +1,5 @@
+( For those looking to give direct feedback, please email [jasic@anui.com](mailto:jasic@anui.com), or follow [this link](https://github.com/AnuiCorp/JasicFeedback/issues/2) for more details. )
+
 ## Welcome to the Jasic Beta ##
 
 We would like to invite you to try Jasic, a JavaScript development tool designed exclusively for the iPad.  Jasic is a labor of love by three programmers with a lot of passion for software development.
